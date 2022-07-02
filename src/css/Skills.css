@@ -1,0 +1,75 @@
+.skills{
+    padding: 120px;
+}
+
+.skills .data{
+    text-align: left;
+    padding: 20px;
+}
+
+.data .feSkills{
+    display: flex;
+    padding-bottom: 50px;
+}
+
+.feSkills .col1{
+    padding: 15px;
+    width: 50%;
+}
+
+.feSkills .col2{
+    padding: 15px;
+    width: 50%;
+}
+
+.data .beSkills{
+    display: flex;
+}
+
+.beSkills .col1{
+    padding: 15px;
+    width: 50%;
+}
+
+.beSkills .col2{
+    padding: 15px;
+    width: 50%;
+}
+
+
+@media screen and (max-width:1040px) {
+    .skills{
+        padding: 20px;
+        padding-top: 120px;
+    }
+
+    .data .feSkills{
+        display: block;
+    }
+    
+    .feSkills .col1{
+        padding: 15px;
+        width: 100%;
+    }
+    
+    .feSkills .col2{
+        padding: 15px;
+        width: 100%;
+    }
+
+    .data .beSkills{
+        display: block;
+    }
+    
+    .beSkills .col1{
+        padding: 15px;
+        width: 100%;
+    }
+    
+    .beSkills .col2{
+        padding: 15px;
+        width: 100%;
+    }
+    
+
+}

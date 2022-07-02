@@ -1,0 +1,64 @@
+.about {
+    padding: 120px;
+}
+
+.about .data{
+    padding-bottom: 20px;
+    
+}
+
+.data .content-about {
+    text-align: left;
+    padding: 20px 80px;
+}
+
+.content-about p{
+    font-size: larger;
+    
+    margin-bottom: 1rem;
+    margin-top: 0;
+}
+
+.contacts{
+    height: 50vh;
+    align-items: center;
+    display: flex;
+}
+.contacts .email {
+    text-align: center;
+    width: 50%;
+}
+.contacts .adress {
+    text-align: center;
+    width: 50%;
+}
+
+@media screen and (max-width:1040px) {
+    .about{
+        
+        padding: 20px;
+        padding-top: 120px;
+    }
+    .about .title {
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .about .content-about{
+        text-align: center;
+        padding: 0;
+    }
+
+    .contacts{
+        padding-top: 20px;
+        display:block;
+    }
+
+    .contacts .email {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .contacts .adress {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+}

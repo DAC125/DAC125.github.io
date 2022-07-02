@@ -1,0 +1,28 @@
+.education {
+    padding: 120px;
+}
+
+
+.education .content-education{
+    padding: 10px;
+}
+
+.content-education .edu{
+    display: flex;
+    padding: 50px 0px;
+    align-items: center;
+}
+
+.edu .insti {
+    width: 30%;
+}
+
+
+.insti .img-edu{
+    width: 100%;
+}
+
+.edu .insti-info{
+    width: 70%;
+    margin: 10px;
+}

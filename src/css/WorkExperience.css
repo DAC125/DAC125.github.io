@@ -1,0 +1,37 @@
+.workExperience {
+    padding: 120px;
+}
+
+.workExperience .content-work {
+    padding: 20px 100px;
+}
+
+.content-work .work {
+    margin: 50px 0px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+ 
+.work .company{
+    text-align: left;
+    width: 30%;
+}
+
+.work .info{
+    text-align: left;
+    width: 70%;
+}
+.info .tecno {
+    padding: 10px 0px;
+    
+}
+.tecno .tag{
+    background-color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    border-radius: 5px;
+    padding: 3px;
+    margin-right: 5px;
+    
+}
