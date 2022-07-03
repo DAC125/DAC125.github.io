@@ -2,7 +2,7 @@ import React from 'react'
 import "./../css/Sections.css"
 import "./../css/Home.css"
 import Particle from './Particle'
-import file from '../assets/Diego_Acuña_Cerdas_-_Software_Engineer.pdf'
+import file from '../assets/Diego_Acuna_Cerdas_-_Software_Engineer.pdf'
 
 const Home = () => {
 
