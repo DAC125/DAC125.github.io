@@ -26,3 +26,22 @@
     width: 70%;
     margin: 10px;
 }
+
+@media screen and (max-width:1040px) {
+    .education {
+        padding: 20px;
+        padding-top: 120px;
+    }
+
+    .content-education .edu{
+        display: block;
+    }
+
+    .edu .insti {
+width: 100%;
+    }
+
+    .edu .insti-info{
+        width: 100%;
+    }
+}

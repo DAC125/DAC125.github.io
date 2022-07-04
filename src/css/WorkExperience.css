@@ -12,26 +12,65 @@
     width: 100%;
     align-items: center;
 }
- 
-.work .company{
+
+.work .company {
     text-align: left;
     width: 30%;
 }
 
-.work .info{
+.work .info {
     text-align: left;
     width: 70%;
 }
+
+.info .aa {
+    display: inline-block;
+    margin-bottom: 11px;
+}
+
 .info .tecno {
     padding: 10px 0px;
-    
+    list-style: none;
+
+
 }
-.tecno .tag{
+
+.tecno .tag {
+
     background-color: #fff;
     font-size: 18px;
     font-weight: 800;
     border-radius: 5px;
     padding: 3px;
     margin-right: 5px;
-    
+    margin-bottom: 5px;
+
+
+}
+
+@media screen and (max-width:1040px) {
+    .workExperience {
+        padding: 20px;
+        padding-top: 120px;
+    }
+
+    .workExperience .content-work {
+        padding: 20px;
+    }
+
+    .content-work .work {
+        display: block;
+    }
+
+    .work .company {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .work .info {
+        width: 100%;
+    }
+
+
+
 }

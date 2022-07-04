@@ -21,19 +21,20 @@ const Projects = () => {
               and solidity (blockchain), creating websites for government
               institutions.
             </h3>
-            <div className="tecno">
-              <span className="tag">ReactJs</span>
-              <span className="tag">Angular</span>
-              <span className="tag">HTML5</span>
-              <span className="tag">CSS</span>
-              <span className="tag">SCSS</span>
-              <span className="tag">NodeJS</span>
-              <span className="tag">Javascript</span>
-              <span className="tag">Typescript</span>
-              <span className="tag">Solidity</span>
-              <span className="tag">MongoDB</span>
-            </div>
+            <ul className="tecno">
+              <li className="aa"><span className="tag">ReactJs</span></li>
+              <li className="aa"><span className="tag">Angular</span></li>
+              <li className="aa"><span className="tag">HTML5</span></li>
+              <li className="aa"><span className="tag">CSS</span></li>
+              <li className="aa"><span className="tag">SCSS</span></li>
+              <li className="aa"><span className="tag">NodeJS</span></li>
+              <li className="aa"><span className="tag">Javascript</span></li>
+              <li className="aa"><span className="tag">Typescript</span></li>
+              <li className="aa"><span className="tag">Solidity</span></li>
+              <li className="aa"><span className="tag">MongoDB</span></li>
+            </ul>
           </div>
+
         </div>
 
         <div className="work">
@@ -44,11 +45,12 @@ const Projects = () => {
           <div className="info">
             <h3>Frontend development, experience with responsive react and typescript, adopting main modules from Javascript to Typescript. </h3>
             <div className="tecno">
-              <span className="tag">ReactJs</span>
-              <span className="tag">NodeJS</span>
-              <span className="tag">Javascript</span>
-              <span className="tag">Typescript</span>
-              <span className="tag">Jest</span>
+              <ul>
+              <li className="aa"><span className="tag">ReactJs</span></li>
+              <li className="aa"><span className="tag">Javascript</span></li>
+              <li className="aa"><span className="tag">Typescript</span></li>
+              <li className="aa"><span className="tag">Jest</span></li>
+              </ul>
             </div>
           </div>
         </div>
@@ -61,8 +63,11 @@ const Projects = () => {
           <div className="info">
             <h3>Software development, experience in creating applications for specific systems, develop apps on python and c#.</h3>
             <div className="tecno">
-              <span className="tag">Python</span>
-              <span className="tag">C#</span>
+              <ul>
+              <li className="aa"><span className="tag">Python</span></li>
+              <li className="aa"><span className="tag">C#</span></li>
+              
+              </ul>
             </div>
           </div>
         </div>

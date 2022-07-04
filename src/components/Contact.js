@@ -1,5 +1,6 @@
 import React from 'react'
 import "./../css/Sections.css"
+import "./../css/Contact.css"
 
 const Contact = () => {
   return (
