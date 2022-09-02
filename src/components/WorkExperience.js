@@ -12,7 +12,7 @@ const Projects = () => {
         <div className="work">
           <div className="company">
             <h1>INNOVAAP</h1>
-            <h4>NOVEMBER 2021 — PRESENT</h4>
+            <h4>NOVEMBER 2021 — JULY 2022</h4>
           </div>
           <div className="info">
             <h3>

@@ -13,10 +13,11 @@ const About = () => {
         </div>
         <div className="content-about">
           <p>
-            I am a very motivated and hard-working person. Great communications
-            and teamwork skills help to solve different conflicts that could
-            eventually happen. Seeking to face new challenges that will improve
-            my knowledge and develop fast responses and solutions.
+            I am a very motivated and hard-working engineer. I have great
+            communications and teamwork skills, which help to solve different
+            conflicts that could eventually happen. Seeking to face new
+            challenges that will improve my knowledge, developing fast responses
+            and solutions.
           </p>
           <p>
             I am eager to learn and grow as a professional in a company that can
@@ -34,7 +35,7 @@ const About = () => {
         </div>
         <div className="adress">
           <GoLocation size={30} style={{ color: "white" }} />
-          <h1>Adress</h1>
+          <h1>Address</h1>
           <div>
             <h4>Naranjo, Alajuela. Costa Rica</h4>
           </div>

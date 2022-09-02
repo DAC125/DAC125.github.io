@@ -9,7 +9,7 @@
 }
 
 body{
-  background: #000;
+  background: #031426;
 }
 
 h1,h2, h3, h4, p, a{
@@ -17,7 +17,7 @@ h1,h2, h3, h4, p, a{
 }
 
 .colorButton{
-  background-color: #000080; 
+  background-color: #004058; 
   border: none;
   color: white;
   padding: 15px 32px;
@@ -26,6 +26,9 @@ h1,h2, h3, h4, p, a{
   display: inline-block;
   font-size: 16px;
   border-radius: 10px;
+}
+.colorButton:hover {
+  background-color: #36475a; 
 }
 
 .title {
