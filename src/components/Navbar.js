@@ -36,9 +36,9 @@ const Navbar = () => {
         <li onClick={() => scrollToSection("education")} className="link">
         Education
         </li>
-        <li onClick={() => scrollToSection("contact")} className="link">
+        {/* <li onClick={() => scrollToSection("contact")} className="link">
           Contact
-        </li>
+        </li> */}
       </ul>
       <div className="hamburger" onClick={handleClick}>
         {!click ? (
