@@ -61,11 +61,10 @@ const Projects = () => {
             <h4>OCTOBER 2021 — NOVEMBER 2021</h4>
           </div>
           <div className="info">
-            <h3>Software development, experience in creating applications for specific systems, develop apps on python and c#.</h3>
+            <h3>Software development, experience in creating applications for specific systems, develop apps on python.</h3>
             <div className="tecno">
               <ul>
               <li className="aa"><span className="tag">Python</span></li>
-              <li className="aa"><span className="tag">C#</span></li>
               
               </ul>
             </div>

@@ -1,4 +1,4 @@
-import React from "react";
+git import React from "react";
 import "../css/Sections.css";
 import "../css/Education.css";
 import TECLogo from "../assets/logoTECBLANCO.png";
@@ -17,7 +17,7 @@ const Education = () => {
             <img src={TECLogo} alt="Logo TEC" className="img-edu" />
           </div>
           <div className="insti-info">
-            <h1>Bachelor's Degree in Computer Science</h1>
+            <h1>Bachelor's Degree in Computer Engineering</h1>
             <h4>FEBRUARY 2018 — JUNE 2022</h4>
           </div>
         </div>
