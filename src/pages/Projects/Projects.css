@@ -1,0 +1,14 @@
+
+.project{
+    padding: 120px;
+}
+
+.project-content{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+    /* align-items: center; */
+    /* align-content: center; */
+    
+}

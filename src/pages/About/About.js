@@ -1,6 +1,6 @@
 import React from "react";
-import "./../css/Sections.css";
-import "./../css/About.css";
+import "./../../css/Sections.css";
+import "./About.css";
 import { AiOutlineMail } from "react-icons/ai";
 import { GoLocation } from "react-icons/go";
 

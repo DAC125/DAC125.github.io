@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./../css/Navbar.css";
+import "./Navbar.css";
 import { FaBars, FaTimes } from "react-icons/fa";
 
 const Navbar = () => {
@@ -35,6 +35,9 @@ const Navbar = () => {
         </li>
         <li onClick={() => scrollToSection("education")} className="link">
         Education
+        </li>
+        <li onClick={() => scrollToSection("projects")} className="link">
+        Projects
         </li>
         {/* <li onClick={() => scrollToSection("contact")} className="link">
           Contact

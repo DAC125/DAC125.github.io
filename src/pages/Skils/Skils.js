@@ -1,6 +1,6 @@
 import React from "react";
-import "./../css/Sections.css";
-import "./../css/Skills.css";
+import "./../../css/Sections.css";
+import "./Skills.css";
 import ProgressBar from "@ramonak/react-progress-bar";
 
 const Skils = () => {
