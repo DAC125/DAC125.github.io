@@ -1,19 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.65cb971a.css",
-    "main.js": "/static/js/main.3f636cff.js",
+    "main.css": "/static/css/main.ffbe8a90.css",
+    "main.js": "/static/js/main.0f3251e9.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
+    "static/media/ethereum.jpeg": "/static/media/ethereum.7a4260b26c492ba95108.jpeg",
+    "static/media/callpetLogo.jpeg": "/static/media/callpetLogo.45d42e19bdd36ceed3e6.jpeg",
     "static/media/Diego_Acuna_Cerdas___Software_Engineer.pdf": "/static/media/Diego_Acuna_Cerdas___Software_Engineer.6f8157fc12082f141478.pdf",
+    "static/media/serverLogo.png": "/static/media/serverLogo.f96de551140e35156059.png",
     "static/media/oxford.png": "/static/media/oxford.8b4ad35e7422800331ce.png",
     "static/media/logoTECBLANCO.png": "/static/media/logoTECBLANCO.678fbf1abc209e7aa859.png",
     "static/media/scrumstudy.svg": "/static/media/scrumstudy.fa2e5ffb37f31595e21a592bfe14d8e8.svg",
     "index.html": "/index.html",
-    "main.65cb971a.css.map": "/static/css/main.65cb971a.css.map",
-    "main.3f636cff.js.map": "/static/js/main.3f636cff.js.map",
+    "main.ffbe8a90.css.map": "/static/css/main.ffbe8a90.css.map",
+    "main.0f3251e9.js.map": "/static/js/main.0f3251e9.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.65cb971a.css",
-    "static/js/main.3f636cff.js"
+    "static/css/main.ffbe8a90.css",
+    "static/js/main.0f3251e9.js"
   ]
 }
