@@ -9,6 +9,12 @@ img{
     width: 100px;
 }
 
+.card-title{
+    display: flex;
+    height: 70px;
+    align-items: center;
+    justify-content: center;
+}
 .card-body{
     color: white;
 }
