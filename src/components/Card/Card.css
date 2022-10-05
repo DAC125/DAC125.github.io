@@ -1,0 +1,14 @@
+.card{
+    margin: 30px;
+    width: 28%;
+    /* box-shadow: 0 4px 8px 0 white, 0 6px 20px 0 white; */
+}
+
+img{
+    height: 100px;
+    width: 100px;
+}
+
+.card-body{
+    color: white;
+}

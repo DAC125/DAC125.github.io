@@ -1,11 +1,13 @@
 
-import Navbar from "./components/Navbar";
-import Home from "./components/Home";
-import About from "./components/About";
-import Skils from "./components/Skils"
-import WorkExperience from "./components/WorkExperience";
-import Contact from "./components/Contact";
-import Education from "./components/Education";
+import Navbar from "./pages/Navbar/Navbar";
+import Home from "./pages/Home/Home";
+import About from "./pages/About/About";
+import Skils from "./pages/Skils/Skils"
+import WorkExperience from "./pages/WorkExperience/WorkExperience";
+import Contact from "./pages/Contact/Contact";
+import Education from "./pages/Education/Education";
+import Projects from "./pages/Projects/Projects";
+// import Card from './components/Card/Card'
 import './css/App.css'
 
 function App() {
@@ -19,6 +21,8 @@ function App() {
       <WorkExperience/>
       <Education/>
       <Contact/>
+      <Projects/>
+      {/* <Card/> */}
     </div>
   );
 }

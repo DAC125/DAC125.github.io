@@ -1,8 +1,8 @@
 import React from 'react'
-import "./../css/Sections.css"
-import "./../css/Home.css"
-import Particle from './Particle'
-import file from '../assets/Diego_Acuna_Cerdas___Software_Engineer.pdf'
+import "./../../css/Sections.css"
+import "./Home.css"
+import Particle from '../../components/Particles/Particle'
+import file from '../../assets/Diego_Acuna_Cerdas___Software_Engineer.pdf'
 
 const Home = () => {
 

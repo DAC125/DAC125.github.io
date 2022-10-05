@@ -1,6 +1,6 @@
 import React from "react";
-import "./../css/Sections.css";
-import "../css/WorkExperience.css";
+import "./../../css/Sections.css";
+import "./WorkExperience.css";
 
 const Projects = () => {
   return (

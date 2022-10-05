@@ -1,9 +1,9 @@
-git import React from "react";
-import "../css/Sections.css";
-import "../css/Education.css";
-import TECLogo from "../assets/logoTECBLANCO.png";
-import Oxford from "../assets/oxford.png";
-import Scrum from "../assets/scrumstudy.svg";
+import React from "react";
+import "../../css/Sections.css";
+import "./Education.css";
+import TECLogo from "../../assets/logoTECBLANCO.png";
+import Oxford from "../../assets/oxford.png";
+import Scrum from "../../assets/scrumstudy.svg";
 
 const Education = () => {
   return (
