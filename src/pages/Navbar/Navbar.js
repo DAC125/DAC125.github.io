@@ -4,7 +4,10 @@ import { FaBars, FaTimes } from "react-icons/fa";
 
 const Navbar = () => {
   const [click, setClick] = useState(false);
-  const handleClick = () => setClick(!click);
+  const handleClick = () => {
+    // document.body.classList.add("no-scroll")
+    setClick(!click);
+  }
 
   const scrollToSection = (sectionId) => {
     window.scrollTo({
@@ -28,7 +31,7 @@ const Navbar = () => {
           About
         </li>
         <li onClick={() => scrollToSection("skills")} className="link">
-          Skils
+          Skills
         </li>
         <li onClick={() => scrollToSection("workExperience")} className="link">
         Work Experience

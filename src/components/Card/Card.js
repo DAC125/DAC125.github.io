@@ -8,7 +8,7 @@ const CardProject = (props) => {
   //     }
   // }
   return (
-    <Card style={{ width: "30%", margin: "20px" }}>
+    <Card className="card">
       <Card.Img
         style={{ width: "286px", height: "180px", borderRadius: "10px" }}
         variant="top"

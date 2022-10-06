@@ -11,7 +11,7 @@ const Projects = () => {
   return (
     <section id="projects" className="section project">
       <div className="title">
-        <h1>Projects</h1>
+        <h1>Public Projects</h1>
       </div>
       <div className="project-content">
         {/* <h1>hola Mundo</h1> */}

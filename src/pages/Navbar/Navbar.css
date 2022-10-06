@@ -56,22 +56,28 @@
     }
 
     .nav-menu {
+        
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
         width: 100%;
         height: 100vh;
-        background: rgba(0, 0, 0, 1);
+        background: rgba(0, 0, 0, 0.9);
         position: absolute;
         top: 0;
         left: -100%;
         z-index: -3;
-        transition:0.3s
+        transition:0.3s;
+        padding-right: 0px;
     }
 
     .nav-menu.active {
         left: 0;
+        z-index: 1;
+        
+        overflow: scroll;
+        /* position: sticky; */
     }
 
     .nav-menu li {
@@ -80,5 +86,6 @@
 
     .hamburger {
         display: initial;
+        z-index: 1;
     }
 }

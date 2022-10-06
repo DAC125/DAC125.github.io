@@ -12,3 +12,13 @@
     /* align-content: center; */
     
 }
+
+@media screen and (max-width:1040px) {
+    .project{
+        padding: 20px;
+        padding-top: 120px;
+    }
+    .project-content{
+        display: block;
+    }
+}
