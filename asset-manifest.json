@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.d16427f5.css",
-    "main.js": "/static/js/main.ace452a1.js",
+    "main.css": "/static/css/main.3a44a79e.css",
+    "main.js": "/static/js/main.7039db97.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/ethereum.jpeg": "/static/media/ethereum.7a4260b26c492ba95108.jpeg",
     "static/media/callpetLogo.jpeg": "/static/media/callpetLogo.45d42e19bdd36ceed3e6.jpeg",
@@ -11,12 +11,12 @@
     "static/media/logoTECBLANCO.png": "/static/media/logoTECBLANCO.678fbf1abc209e7aa859.png",
     "static/media/scrumstudy.svg": "/static/media/scrumstudy.fa2e5ffb37f31595e21a592bfe14d8e8.svg",
     "index.html": "/index.html",
-    "main.d16427f5.css.map": "/static/css/main.d16427f5.css.map",
-    "main.ace452a1.js.map": "/static/js/main.ace452a1.js.map",
+    "main.3a44a79e.css.map": "/static/css/main.3a44a79e.css.map",
+    "main.7039db97.js.map": "/static/js/main.7039db97.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d16427f5.css",
-    "static/js/main.ace452a1.js"
+    "static/css/main.3a44a79e.css",
+    "static/js/main.7039db97.js"
   ]
 }
