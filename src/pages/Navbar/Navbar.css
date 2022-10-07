@@ -20,6 +20,7 @@
 }
 .nav-logo:hover{
     color: #004058; 
+    
 }
 
 
@@ -27,12 +28,16 @@
     text-decoration: none;
     display: inline;
 
-    font-weight: 800;
+    font-weight: 500;
     font-size: large;
     cursor: pointer;
 }
 .link:hover{
     color: #004058; 
+    font-weight: bolder;
+    
+    
+
 }
 
 .nav-menu {
@@ -76,7 +81,7 @@
         left: 0;
         z-index: 1;
         
-        overflow: scroll;
+        overflow: hidden;
         /* position: sticky; */
     }
 

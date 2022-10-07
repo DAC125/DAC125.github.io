@@ -6,7 +6,13 @@ const Navbar = () => {
   const [click, setClick] = useState(false);
   const handleClick = () => {
     // document.body.classList.add("no-scroll")
+    
     setClick(!click);
+    if (!click) {
+      document.documentElement.style.overflow = "hidden";
+    }else{
+      document.documentElement.style.overflow = "scroll";
+    }
   }
 
   const scrollToSection = (sectionId) => {

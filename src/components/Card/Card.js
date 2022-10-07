@@ -10,7 +10,7 @@ const CardProject = (props) => {
   return (
     <Card className="card">
       <Card.Img
-        style={{ width: "286px", height: "180px", borderRadius: "10px" }}
+        style={{ width: "250px", height: "180px", borderRadius: "10px" }}
         variant="top"
         src={props.img}
       />
@@ -25,7 +25,7 @@ const CardProject = (props) => {
         </div>
         <Card.Text style={{ margin: "10px" }}>{props.text}</Card.Text>
 
-        <a href={props.projectRepo} className="colorButton">
+        <a href={props.projectRepo} className="colorButton" target="_blank">
           Go to project
         </a>
       </Card.Body>
